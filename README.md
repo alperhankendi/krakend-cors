@@ -7,8 +7,8 @@ A set of building blocks for instrumenting [KrakenD](http://www.krakend.io) gate
 
 ## Available flavours
 
-1. [mux](github.com/devopsfaith/krakend-cors/blob/master/mux) Mux based handlers
-2. [gin](github.com/devopsfaith/krakend-cors/blob/master/gin) Gin based handlers
+1. [mux](https://github.com/devopsfaith/krakend-cors/blob/master/mux) Mux based handlers
+2. [gin](https://github.com/devopsfaith/krakend-cors/blob/master/gin) Gin based handlers
 
 Check the tests and the documentation for more details
 
