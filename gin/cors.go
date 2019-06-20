@@ -1,7 +1,7 @@
 package gin
 
 import (
-	krakendcors "github.com/devopsfaith/krakend-cors"
+	krakendcors "github.com/alperhankendi/krakend-cors"
 	"github.com/devopsfaith/krakend/config"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
